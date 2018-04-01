@@ -1,1 +1,1 @@
-include ':builder'
+include ':builder', ':sqlite', ':materialdesign_theme_style'

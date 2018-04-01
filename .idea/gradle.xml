@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/materialdesign_theme_style" />
+            <option value="$PROJECT_DIR$/sqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite</string>
+    <string name="denied_required_permission">"权限被拒绝。您可以依次选择 \"设置\"&gt;\"应用\" 来更改权限。"</string>
+</resources>
